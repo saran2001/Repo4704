@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Test {\n  constructor() {\n    this.doctor = {\n      doctorId: null,\n      doctorName: '',\n      doctorPhoneNO: null,\n      doctorAddress: '',\n      department: null,\n      specialization: null\n    };\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

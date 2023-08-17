@@ -1,0 +1,1 @@
+{"ast":null,"code":"// import { Patient } from \"../patient/Patient\";\nexport class Insurance {\n  constructor() {\n    this.patient = {\n      pid: null,\n      pName: '',\n      pMobileNo: null,\n      pAdd: '',\n      pDob: null,\n      doc: null,\n      test: null\n    };\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
